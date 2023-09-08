@@ -1,4 +1,4 @@
-Link to Sunshine Beauty Supply Website:
+Link to Blossom Beauty Mall Website:
 https://blossombmall.com/
 
 <!---
