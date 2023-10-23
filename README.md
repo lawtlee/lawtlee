@@ -1,4 +1,4 @@
-Hello my name is Lawrence Lee. I'm a third year Math and Computer Science studen at UCLA. I'm interested in creating desktop applications and am well versed in mobile/web development. I am currently working at UCLA's Data Science Center as a Data Scientist.
+Hello, I'm Lawrence Lee, a third-year student at UCLA majoring in Mathematics and Computer Science. My passion lies in developing desktop applications, and I'm well-versed in mobile and web development. I currently work as a Data Scientist at UCLA's Data Science Center and serve as the Vice President of Technologies for UCLA Innovative Design.
 
 # [Github Stats](https://github.com/lawtlee/#-github_stats)
 
