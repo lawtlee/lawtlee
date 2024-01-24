@@ -1,5 +1,7 @@
 Hello, I'm Lawrence Lee, a third-year student at UCLA majoring in Mathematics and Computer Science. My passion lies in developing desktop applications, and I'm well-versed in mobile and web development. I currently work as a Data Scientist at UCLA's Data Science Center and serve as the Vice President of Technologies for UCLA Innovative Design.
 
+Visit my [personal website](http://lawrencetlee.com) for more information about me! 
+
 Visit my blog where I wrtie about Coffee Shops and other Thoughts: http://coffee-thoughts.lawrencetlee.com
 
 # [Github Stats](https://github.com/lawtlee/#-github_stats)
